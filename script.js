@@ -20,4 +20,16 @@ function multipicar(a, b)
     return a * b; //Se regresa la multiplicación de las variables a * b
 }
 
+let resultadoSuma = suma(11, 87); //Ejemplo utilizando la función suma
+console.log(resultadoSuma);
+
+let resultadoResta = resta(95, 43); //Ejemplo utilizando la función resta
+console.log(resultadoResta);
+
+let resultadoDividir = dividir(24, 3); //Ejemplo utilizando la función dividir
+console.log(resultadoDividir);
+
+let resultadoMultiplicar = multipicar(11, 87); //Ejemplo utilizando la función multipicar
+console.log(resultadoMultiplicar);
+
 //Final
